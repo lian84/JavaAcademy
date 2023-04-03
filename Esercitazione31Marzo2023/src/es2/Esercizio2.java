@@ -7,6 +7,9 @@ public class Esercizio2 {
 		pariPositivi(numeri);
 		
 		
+	//Aggiungo qui un commento
+		
+		
 	}
 	
 	public static void pariPositivi(int[] numeri){
